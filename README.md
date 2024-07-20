@@ -1,1 +1,2 @@
-# microprocessor-based-mobile-pulse-oximeter-and-ECG-device
+# microprocessor-based-mobile-pulse-oximeter-and-ECG-devic
+The primary goal of my project is to evaluate and diagnose patients' heart conditions using Electrocardiography (ECG) and pulse data. This allows for the early detection of heart diseases and the application of effective treatment methods. This project will provide significant benefits to healthcare professionals and patients, contributing to the early diagnosis and effective treatment of heart diseases. My aim with this project is to offer an innovative, cost-effective, and accessible solution in the healthcare sector.
